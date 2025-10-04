@@ -52,8 +52,11 @@ sudo dsnifff
 
 
 
+
 Invoke the wireshark and examine the various menus  and controls of the tool:
 
 
 ## RESULT:
+<img width="1914" height="807" alt="image" src="https://github.com/user-attachments/assets/de6448a4-55d5-4ac5-ab39-a75c28356051" />
+
 The kali linux tools for ARP Attack and Network Sniffing were identified successfully
